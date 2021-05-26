@@ -116,7 +116,7 @@ p{
 /* Home Section */
 #home{
     display:flex;
-    background: url("/assets/images/photo-1601436155198-2ebfea8117b0.jpg");
+    background: url("../assets/images/photo-1601436155198-2ebfea8117b0.jpg");
     justify-content: start;
     height:100vh;
     color:white;
