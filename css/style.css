@@ -41,9 +41,6 @@ section .title{
     max-width: 47%;
     margin:auto;
 }
-p{
-    text-align: justify;
-}
 .large-btn-container{
     text-align:center;
 }
